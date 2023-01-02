@@ -2,7 +2,10 @@
 - 👀 I’m interested in web development and flutter application
 - 🌱 I’m currently learning react js and flutter
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me -->https://www.instagram.com/chintan_patel.dev
+- 📫 How to reach me 
+- -->https://www.instagram.com/chintan_patel.dev
+- -->https://www.linkedin.com/in/patel-s-chintan/
+- 
 
 <!---
 Chintan-dev/Chintan-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
